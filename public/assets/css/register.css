@@ -1,0 +1,19 @@
+.border
+        {
+            border: 1ch solid gold;
+            margin-top: 50px;
+            width: 50%;
+            margin-left: 250px;
+        }
+
+        form
+        {
+            padding: 25px 25px 25px 25px;
+            width: 90%;
+            margin-left: 20px;
+        }
+        #success_message{
+            color: red;
+            text-align: center;
+            font-size: 31px;
+        }
